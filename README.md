@@ -1,4 +1,8 @@
-## Hi there 👋
+## About Me 👋
+
+Hey There!
+
+I'm Alex, a 19-year-old student who is currently pur
 
 <!--
 **reysl-04/reysl-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
