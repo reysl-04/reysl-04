@@ -1,6 +1,6 @@
 # About Me
 
-Hey! I'm Alex 🦆
+Hey! I'm Alex
 
 My name is Alexander Reyes. I'm a 19-year-old student and I'm pursuing a Computer Science degree here in New York State
 
