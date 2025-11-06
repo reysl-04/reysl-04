@@ -1,8 +1,6 @@
-## About Me 👋
+## Hey There! I'm Alex
 
-Hey There!
-
-I'm Alex, a 19-year-old student who is currently pur
+I'm a 19-year-old student and I'm currently pursuing a Computer Science degree here in New York. 
 
 <!--
 **reysl-04/reysl-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
