@@ -1,6 +1,7 @@
 # Hey! I'm Alex
 
-<img width="1280" height="640" alt="alex-github-readme" src="https://github.com/user-attachments/assets/ae9fb903-c542-4879-bfc9-2cf6c6fdbdfb" />
+<img width="1280" height="640" alt="alex-github-readme" src="https://github.com/user-attachments/assets/36a3be2a-afd8-4a03-b28a-7d8eb5125091" />
+
 
 My name is Alexander Reyes. I'm a 19-year-old student and I'm pursuing a Computer Science degree here in New York State
 
