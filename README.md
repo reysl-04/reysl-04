@@ -3,7 +3,7 @@
 <img width="1280" height="640" alt="alex-github-readme" src="https://github.com/user-attachments/assets/36a3be2a-afd8-4a03-b28a-7d8eb5125091" />
 <br>
 My name is Alexander Reyes. I'm a 19-year-old student and I'm pursuing a Computer Science degree here in New York State
-<br>
+<br><br>
 I'm interested in back-end development and AI, but I also have a background on front-end development. I am always looking for new opportunities to learn and challenge myself! If you need help with something, please do not hesitate to contact me!
 
 ### A little bit about me
