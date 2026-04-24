@@ -6,9 +6,9 @@ My name is Alexander Reyes. I'm a 19-year-old student and I'm pursuing a Compute
 <br>
 I'm interested in back-end development and AI, but I also have a background on front-end development. I am always looking for new opportunities to learn and challenge myself! If you need help with something, please do not hesitate to contact me!
 
-## A little bit about me
+### A little bit about me
 - Peruvian 🇵🇪
-- Artist (partially and yes, I drew my banner)
+- Artist (Partially and yes, I drew my banner)
 - Dog & Cat lover 🐕 🐈
 - LoL player: Main ADC and support 🎮 (Contact me if you want to play)
 - Gym enjoyer 🏋️‍♂️
