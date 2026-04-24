@@ -4,15 +4,18 @@
 <br>
 My name is Alexander Reyes. I'm a 19-year-old student and I'm pursuing a Computer Science degree here in New York State
 
-I'm interested in Full Stack Development, but I am currently studying Front-end development. I have just started getting into this field not so long ago, so I am kind of new. I am eager to learn more! If you have any feedback about any of my projects please do not hesitate to let me know, I will be more than happy!
+I'm interested in back-end development and AI, but I also have a background on front-end development. I am always looking for new opportunities to learn and challenge myself! If you need help with something, please do not hesitate to contact me!
 
-A few fun facts about me:
-- I'm from Peru 🇵🇪
-- I like dogs and cats 🐕 🐈
-- I love playing games 🎮
-- I like going to the gym 🏋️‍♂️
+## A little bit about me
+- Peruvian 🇵🇪
+- Dog & Cat lover 🐕 🐈
+- LoL player: Main ADC and support 🎮 (Contact me if you want to play)
+- Gym enjoyer 🏋️‍♂️
 
-I'm looking foward to learning more about coding!
+## Check out my socials!
+Personal Website: https://reysl-04.github.io/
+Linkedin: https://www.linkedin.com/in/alex-reyes04/
+Instagram: https://www.instagram.com/alex.reysl04/ 
 
 <!--
 **reysl-04/reysl-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
