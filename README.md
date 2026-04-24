@@ -13,9 +13,9 @@ I'm interested in back-end development and AI, but I also have a background on f
 - Gym enjoyer 🏋️‍♂️
 
 ## Check out my socials!
-Personal Website: https://reysl-04.github.io/
-Linkedin: https://www.linkedin.com/in/alex-reyes04/
-Instagram: https://www.instagram.com/alex.reysl04/ 
+- Personal Website: https://reysl-04.github.io/
+- Linkedin: https://www.linkedin.com/in/alex-reyes04/
+- Instagram: https://www.instagram.com/alex.reysl04/ 
 
 <!--
 **reysl-04/reysl-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
