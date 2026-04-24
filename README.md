@@ -1,12 +1,7 @@
 # Hey! I'm Alex
 
 <img width="1280" height="640" alt="alex-github-readme" src="https://github.com/user-attachments/assets/36a3be2a-afd8-4a03-b28a-7d8eb5125091" />
-
-
-
-
-
-
+<br>
 My name is Alexander Reyes. I'm a 19-year-old student and I'm pursuing a Computer Science degree here in New York State
 
 I'm interested in Full Stack Development, but I am currently studying Front-end development. I have just started getting into this field not so long ago, so I am kind of new. I am eager to learn more! If you have any feedback about any of my projects please do not hesitate to let me know, I will be more than happy!
