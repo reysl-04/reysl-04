@@ -14,7 +14,6 @@ I'm interested in back-end development and AI, but I also have a background on f
 - Gym enjoyer 🏋️‍♂️
 
 ## Check out my socials!
-- Personal Website: https://reysl-04.github.io/
 - Linkedin: https://www.linkedin.com/in/alex-reyes04/
 - Instagram: https://www.instagram.com/alex.reysl04/ 
 
